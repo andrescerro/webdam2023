@@ -4,7 +4,7 @@ Hola Esto es Una pruieba para hacer un commit bien
 
 @font-face {
     font-family: 'HelveticaNeue';
-    src: url(fonts/HelveticaNeue/HelveticaNeue-Roman.otf);
+    src: url(/fonts/HelveticaNeue/HelveticaNeue-Roman.otf);
 }
 
 body {
